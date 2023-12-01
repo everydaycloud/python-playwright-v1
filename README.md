@@ -2,7 +2,8 @@
 # 🐍 Python Playwright News Article Scraper 📜
 
 This little scraper scrapes the links to all articles from a given page and returns the title and substitle 
-(but you can add pretty much any article information you need including the date, article text etc).
+(but you can add pretty much any article information you need including the date, article text etc). The news outlet used is just an example 
+and doesn't represent any political opinions 😅
 
 1. Fork the repo and clone it onto your machine.
 2. Run the main.py first to collect the urls to individual articles from a category or results page on a news website. 
